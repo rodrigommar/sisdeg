@@ -14,6 +14,10 @@ As fontes de dados fundamentais para este projeto são provenientes do IBGE e OP
 
 # Estrutura dos diretorios do projeto
 
+Para conseguir essa formatação específica no `README.md`, você pode utilizar o formato de pré-formatação em Markdown, que preserva o layout e a indentação exata que você deseja. Aqui está como você pode fazer:
+
+```
+```
 project-SisDEG/
 ├── data/
 │   ├── # Dados brutos coletados de API e SUS
@@ -32,8 +36,8 @@ project-SisDEG/
 ├── README.md              # Documentação do projeto
 ├── app.py                 # Aplicação principal do dashboard
 └── .gitignore             # Arquivos e diretórios a serem ignorados pelo Git
-
-
+```
+```
 
 # Fluxograma
 
