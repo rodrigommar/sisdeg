@@ -1,0 +1,19 @@
+project-SisDEG/
+├── data/
+│   ├── # Dados brutos coletados de API e SUS
+│   └── # Dados processados e prontos para análise
+├── notebooks/
+│   └── # Notebooks Jupyter para análise exploratória de dados
+├── Documentos/
+│   ├── dicionario_de_dados_SRAG_hospitalizado_2019.pdf     #Dicionarios de Dados SRAG
+│   └── info.txt               # Qualquer informação que julgar importante
+├── layout /
+│       ├── __init__.py        # Inicializador do módulo de dashboard
+│       └── layout.py          # Layout e estrutura do dashboard
+├── venv/
+│   └── # Arquivos relacionados as bibliotecas do ambiente virtual
+├── requirements.txt           # Lista de dependências do projeto
+├── README.md                  # Documentação do projeto
+├── app.py             # Aplicação principal do dashboard
+└── .gitignore                 # Arquivos e diretórios a serem ignorados pelo Git
+

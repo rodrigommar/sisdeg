@@ -1,0 +1,140 @@
+[
+    {
+        "regiao": "NORTE",
+        "abreviatura_regiao": "N",
+        "lista_estado": [
+            {
+                "estado": "ACRE",
+                "abreviatura_estado": "AC"
+            },
+            {
+                "estado": "AMAPA",
+                "abreviatura_estado": "AP"
+            },
+            {
+                "estado": "AMAZONAS",
+                "abreviatura_estado": "AM"
+            },
+            {
+                "estado": "PARA",
+                "abreviatura_estado": "PA"
+            },
+            {
+                "estado": "RONDONIA",
+                "abreviatura_estado": "RO"
+            },
+            {
+                "estado": "RORAIMA",
+                "abreviatura_estado": "RR"
+            },
+            {
+                "estado": "TOCANTINS",
+                "abreviatura_estado": "TO"
+            }
+        ]
+    },
+    {
+        "regiao": "NORDESTE",
+        "abreviatura_regiao": "NE",
+        "lista_estado": [
+            {
+                "estado": "ALAGOAS",
+                "abreviatura_estado": "AL"
+            },
+            {
+                "estado": "BAHIA",
+                "abreviatura_estado": "BA"
+            },
+            {
+                "estado": "CEARA",
+                "abreviatura_estado": "CE"
+            },
+            {
+                "estado": "MARANHAO",
+                "abreviatura_estado": "MA"
+            },
+            {
+                "estado": "PARAIBA",
+                "abreviatura_estado": "PB"
+            },
+            {
+                "estado": "PERNAMBUCO",
+                "abreviatura_estado": "PE"
+            },
+            {
+                "estado": "PIAUI",
+                "abreviatura_estado": "PI"
+            },
+            {
+                "estado": "RIO GRANDE DO NORTE",
+                "abreviatura_estado": "RN"
+            },
+            {
+                "estado": "SERGIPE",
+                "abreviatura_estado": "SE"
+            }
+        ]
+    },
+    {
+        "regiao": "SUDESTE",
+        "abreviatura_regiao": "SE",
+        "lista_estado": [
+            {
+                "estado": "ESPIRITO SANTO",
+                "abreviatura_estado": "ES"
+            },
+            {
+                "estado": "MINAS GERAIS",
+                "abreviatura_estado": "MG"
+            },
+            {
+                "estado": "RIO DE JANEIRO",
+                "abreviatura_estado": "RJ"
+            },
+            {
+                "estado": "SAO PAULO",
+                "abreviatura_estado": "SP"
+            }
+        ]
+    },
+    {
+        "regiao": "SUL",
+        "abreviatura_regiao": "S",
+        "lista_estado": [
+            {
+                "estado": "PARANA",
+                "abreviatura_estado": "PR"
+            },
+            {
+                "estado": "RIO GRANDE DO SUL",
+                "abreviatura_estado": "RS"
+            },
+            {
+                "estado": "SANTA CATARINA",
+                "abreviatura_estado": "SC"
+            }
+        ]
+    },
+    {
+        "regiao": "CENTRO-OESTE",
+        "abreviatura_regiao": "CO",
+        "lista_estado": [
+            {
+                "estado": "DISTRITO FEDERAL",
+                "abreviatura_estado": "DF"
+            },
+            {
+                "estado": "GOIAS",
+                "abreviatura_estado": "GO"
+            },
+            {
+                "estado": "MATO GROSSO",
+                "abreviatura_estado": "MT"
+            },
+            {
+                "estado": "MATO GROSSO DO SUL",
+                "abreviatura_estado": "MS"
+            }
+        ]
+    }
+]
