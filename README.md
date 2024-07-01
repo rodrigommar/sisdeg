@@ -34,10 +34,11 @@ project-SisDEG/
 └── .gitignore             # Arquivos e diretórios a serem ignorados pelo Git
 
 
+
 # Fluxograma
 
 
-![Fluxograma da Pipeline de Dados](imagens/pipeline.png)
+![Fluxograma da Pipeline de Dados](documentos/fluxograma.png)
 
 1. **Coleta de Dados Brutos:** Obtém dados brutos de fontes como APIs e bases de dados do OPEN DATA SUS.
 
