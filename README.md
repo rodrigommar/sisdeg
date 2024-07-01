@@ -15,7 +15,6 @@ As fontes de dados fundamentais para este projeto são provenientes do IBGE e OP
 # Estrutura dos diretorios do projeto
 
 ```markdown
-```
 project-SisDEG/
 ├── data/
 │   ├── # Dados brutos coletados de API e SUS
@@ -34,7 +33,6 @@ project-SisDEG/
 ├── README.md              # Documentação do projeto
 ├── app.py                 # Aplicação principal do dashboard
 └── .gitignore             # Arquivos e diretórios a serem ignorados pelo Git
-```
 ```
 
 # Fluxograma
