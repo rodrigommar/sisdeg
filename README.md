@@ -14,9 +14,7 @@ As fontes de dados fundamentais para este projeto são provenientes do IBGE e OP
 
 # Estrutura dos diretorios do projeto
 
-Para conseguir essa formatação específica no `README.md`, você pode utilizar o formato de pré-formatação em Markdown, que preserva o layout e a indentação exata que você deseja. Aqui está como você pode fazer:
-
-```
+```markdown
 ```
 project-SisDEG/
 ├── data/
